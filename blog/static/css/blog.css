@@ -1,17 +1,21 @@
 .page-header {
-    background-color: #ff9400;
+    background-image: url("http://wallpapercraze.com/images/wallpapers/giraffe_print_w1.jpeg");
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #ffffff;
+    color: #8b4513;
     font-size: 36pt;
     text-decoration: none;
+
 }
 
 .content {
-    margin-left: 40px;
+  color: #000000;
+    margin-left: 0px;
+    background-image: url("http://baktherapie.nl/wp-content/uploads/2015/02/Giraffe.jpg");
+    width: 950px;
 }
 
 h1, h2, h3, h4 {
@@ -45,6 +49,27 @@ h1, h2, h3, h4 {
     color: #000000;
 }
 
+
 .comment {
     margin: 20px 0px 20px 20px;
+}
+
+h2 {
+  color: #FF8C00;
+}
+
+.image-container1 {
+    width:100%;
+    position:absolute;
+    float:right;
+    right:0;
+    clear:both;
+}
+
+.image-container2 {
+    background:url("http://www.kids-n-fun.nl/kleurplaatjes/giraffe/giraffe_11.jpg") no-repeat;
+    background-size:500px 500px;
+    height:500px;
+    width:500px;
+    float:right;
 }
